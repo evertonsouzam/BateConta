@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".viewmodel.MainActivity">
+
+    <Button
+        android:id="@+id/btComecar"
+        style="@style/botao"
+        android:text="@string/vamos_beber"
+        android:onClick="comecar"/>
+
+    <Button
+        android:id="@+id/btSair"
+        style="@style/botao"
+        android:layout_below="@+id/btComecar"
+        android:text="@string/sair"
+        android:onClick="sair"/>
+
+    <Button
+        android:id="@+id/btDesconectar"
+        style="@style/botao"
+        android:layout_below="@+id/btSair"
+        android:text="@string/desconectar"
+        android:onClick="desconectar"/>
+
+    <Button
+        android:id="@+id/btSobre"
+        style="@style/botao"
+        android:layout_alignParentBottom="true"
+        android:text="@string/sobre"
+        android:onClick="sobre"/>
+
+</RelativeLayout>

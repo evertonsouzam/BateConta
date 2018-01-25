@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/tvProduto"
+        style="@style/padrao"
+        android:text="@string/Texto_Nome_Produto"/>
+    <EditText
+    android:id="@+id/etProduto"
+        style="@style/padrao"/>
+
+    <TextView
+        android:id="@+id/tvValor"
+        style="@style/padrao"
+        android:text="@string/Texto_Valor_Produto"/>
+    <EditText
+        android:id="@+id/etValor"
+        android:inputType="numberDecimal"
+        style="@style/padrao" />
+
+    <TextView
+        android:id="@+id/tvQuantidade"
+        style="@style/padrao"
+        android:text="@string/Texto_Quantidade_Produto"/>
+    <EditText
+        android:id="@+id/etQuantidade"
+        android:inputType="number"
+        style="@style/padrao" />
+    <LinearLayout
+        style="@style/padrao"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btCancelarProduto"
+            style="@style/botao"
+            android:text="@string/cancelar"/>
+        <Button
+            android:id="@+id/btConfirmarProduto"
+            style="@style/botao"
+            android:text="@string/confirmar"/>
+    </LinearLayout>
+</LinearLayout>

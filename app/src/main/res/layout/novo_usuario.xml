@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/tvNomeUsuario"
+        style="@style/padrao"
+        android:text="@string/informe_o_nome_de_usuario"/>
+    <EditText
+        android:id="@+id/etNomeUsuario"
+        style="@style/padrao" />
+
+    <TextView
+        android:id="@+id/tvSenha"
+        style="@style/padrao"
+        android:text="@string/Texto_Senha"/>
+    <EditText
+        android:id="@+id/etSenha"
+        android:inputType="textPassword"
+        style="@style/padrao" />
+
+    <TextView
+        android:id="@+id/tvConfirmarSenha"
+        style="@style/padrao"
+        android:text="@string/Texto_ConfirmarSenha"/>
+    <EditText
+        android:id="@+id/etConfirmaSenha"
+        android:inputType="textPassword"
+        style="@style/padrao"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btCancelarUsuario"
+            style="@style/botao"
+            android:text="@string/cancelar"/>
+        <Button
+            android:id="@+id/btConfirmarUsuario"
+            style="@style/botao"
+            android:text="@string/confirmar"/>
+    </LinearLayout>
+</LinearLayout>
