@@ -22,9 +22,9 @@ public class Util {
                 .build();
 
         return new Retrofit.Builder()
-                .baseUrl("http://10.0.2.2:8080")
+                //.baseUrl("http://10.0.2.2:8080") //localhost
                 //TODO ALTERAR PARA O LINK DO HIROKU
-                //.baseUrl("http://localhost:8080")
+                .baseUrl("https://batecontacloud.herokuapp.com")
                 .client(okHttpClient)
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();

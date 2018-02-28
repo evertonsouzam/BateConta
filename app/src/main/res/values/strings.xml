@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Bate Conta</string>
-    <string name="vamos_beber">Vamos Beber!</string>
-    <string name="sair">Sair</string>
-    <string name="logar">Logar</string>
-    <string name="senha">Senha</string>
-    <string name="login">Login</string>
-    <string name="desconectar">Desconectar e Sair</string>
-    <string name="criar_conta">Criar Conta</string>
-    <string name="informe_o_nome_de_usuario">Informe o nome de Usuario</string>
-    <string name="Texto_Nome_Produto">Informe o nome do produto</string>
-    <string name="Texto_Valor_Produto">Informe o valor do produto</string>
-    <string name="Texto_Quantidade_Produto">Informe a quantidade</string>
-    <string name="Texto_Novo_Produto"> Novo Produto</string>
-    <string name="Texto_Erro_Subtrair">Erro subtrair quantidade</string>
-    <string name="Texto_Erro_Somar">Erro somar quantidade</string>
-    <string name="Texto_Erro_Apagar">Erro ao apagar produto</string>
-    <string name="Texto_Sucesso_Apagar">Produto apagado com sucesso</string>
-    <string name="Texto_Sucesso">Dado gravado com sucesso!</string>
-    <string name="Texto_Erro_Adicionar">Erro ao adicionar novo produto</string>
-    <string name="confirmar">Confirmar</string>
-    <string name="cancelar">Cancelar</string>
-    <string name="Texto_NomeUsuario">Nome do usuario</string>
-    <string name="Texto_Senha">Senha</string>
-    <string name="Texto_ConfirmarSenha">Confirmar senha</string>
-    <string name="Texto_Erro_Senhas">Senhas devem ser iguais</string>
-    <string name="Texto_Erro_BuscaUsuario">Erro ao buscar usuario para cadastro</string>
-    <string name="Texto_Erro_UsuarioUtilizado">Nome de usuário ja utilizado</string>
-    <string name="Texto_Erro_CadastrarUsuario">Falha ao cadastrar Usuario</string>
-    <string name="Texto_Erro_UsuarioSenhaInvalido">Usuario ou senha inválido</string>
-    <string name="Texto_Erro_PreencherUsuarioSenha">Preencher usuario e senha</string>
-    <string name="Texto_Erro_BuscarLogin">Erro ao buscar dados para login</string>
-    <string name="ValorPagar">Valor a pagar:</string>
-    <string name="confirmar_e_manter_a_conta">Confirmar e manter a conta</string>
-    <string name="confirmar_e_iniciar_nova_conta">Confirmar e iniciar nova conta</string>
-    <string name="sobre">Sobre</string>
+    <string name="app_name" translatable="false">Bate Conta</string>
+    <string name="vamos_beber">Let\'s Drink!</string>
+    <string name="logar" translatable="false">Login</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="cancelar">Cancel</string>
+    <string name="Texto_Senha">Password</string>
+    <string name="sobre">About</string>
+    <string name="sair">Exit</string>
+    <string name="senha">Password</string>
+    <string name="desconectar">Disconnect and Exit</string>
+    <string name="criar_conta">Create Account</string>
+    <string name="Texto_Novo_Produto">New Product</string>
+    <string name="Texto_ConfirmarSenha">Confirm Password</string>
+    <string name="Texto_Erro_Senhas">Password must be equal</string>
+    <string name="confirmar_e_iniciar_nova_conta">Confirm and start new account</string>
+    <string name="confirmar_e_manter_a_conta">Confirm and keep accoun</string>
+    <string name="ValorPagar">Total ammount:</string>
+    <string name="Texto_Erro_BuscarLogin">Error on login</string>
+    <string name="Texto_Erro_PreencherUsuarioSenha">User and password must be informed</string>
+    <string name="Texto_Erro_UsuarioSenhaInvalido">Invalid username or password</string>
+    <string name="Texto_Erro_CadastrarUsuario">Fail to create user</string>
+    <string name="Texto_Erro_UsuarioUtilizado">Username not unique</string>
+    <string name="Texto_Erro_BuscaUsuario">Error to create user</string>
+    <string name="Texto_NomeUsuario">Username</string>
+    <string name="confirmar">Confirm</string>
+    <string name="Texto_Erro_Adicionar">Error creating new product</string>
+    <string name="Texto_Sucesso_Apagar">Sucess!</string>
+    <string name="Texto_Sucesso">Sucess!</string>
+    <string name="Texto_Erro_Apagar">Error deleting product</string>
+    <string name="Texto_Erro_Somar">Error to add  product</string>
+    <string name="Texto_Erro_Subtrair">Error to subtract product</string>
+    <string name="Texto_Quantidade_Produto">Quantity</string>
+    <string name="Texto_Valor_Produto">Valeu</string>
+    <string name="Texto_Nome_Produto">Name</string>
+    <string name="informe_o_nome_de_usuario">Username</string>
 </resources>
