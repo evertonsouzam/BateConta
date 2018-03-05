@@ -36,4 +36,8 @@
     <string name="desenvolvido_por">Desenvolvido Por</string>
     <string name="vers_o">Versão:</string>
     <string name="Novo_produto">Novo Produto</string>
+    <string name="editar">Editar</string>
+    <string name="apagar">Apagar</string>
+    <string name="somar">Somar</string>
+    <string name="subtrair">Subtrair</string>
 </resources>

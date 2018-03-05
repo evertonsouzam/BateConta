@@ -2,7 +2,6 @@
 <resources>
     <string name="app_name" translatable="false">Bate Conta</string>
     <string name="vamos_beber">Let\'s Drink!</string>
-    <string name="logar" translatable="false">Login</string>
     <string name="login" translatable="false">Login</string>
     <string name="cancelar">Cancel</string>
     <string name="Texto_Senha">Password</string>
@@ -26,8 +25,8 @@
     <string name="Texto_NomeUsuario">Username</string>
     <string name="confirmar">Confirm</string>
     <string name="Texto_Erro_Adicionar">Error creating new product</string>
-    <string name="Texto_Sucesso_Apagar">Sucess!</string>
-    <string name="Texto_Sucesso">Sucess!</string>
+    <string name="Texto_Sucesso_Apagar">Sucsess!</string>
+    <string name="Texto_Sucesso">Sucsess!</string>
     <string name="Texto_Erro_Apagar">Error deleting product</string>
     <string name="Texto_Erro_Somar">Error to add  product</string>
     <string name="Texto_Erro_Subtrair">Error to subtract product</string>
@@ -40,4 +39,8 @@
     <string name="everton_mendes" translatable="false">Everton Mendes</string>
     <string name="vers_o">Version:</string>
     <string name="Novo_produto">New Product</string>
+    <string name="editar">Edit</string>
+    <string name="apagar">Delete</string>
+    <string name="subtrair">Substract</string>
+    <string name="somar">Sum</string>
 </resources>
