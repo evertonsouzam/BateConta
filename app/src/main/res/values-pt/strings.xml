@@ -32,4 +32,8 @@
     <string name="Texto_Erro_Subtrair">Erro subtrair quantidade</string>
     <string name="Texto_Quantidade_Produto">Informe a quantidade</string>
     <string name="Texto_Valor_Produto">Informe o valor do produto</string>
+    <string name="manter_conectado">Manter Conectado</string>
+    <string name="desenvolvido_por">Desenvolvido Por</string>
+    <string name="vers_o">Versão:</string>
+    <string name="Novo_produto">Novo Produto</string>
 </resources>

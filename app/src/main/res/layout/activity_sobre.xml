@@ -23,17 +23,17 @@
     <TextView
         android:id="@+id/tvDesenvolvidoPor"
         style="@style/sobre"
-        android:text="Desenvolvido Por" />
+        android:text="@string/desenvolvido_por" />
 
     <TextView
         android:id="@+id/tvNome"
         style="@style/sobre"
-        android:text="Everton Mendes" />
+        android:text="@string/everton_mendes" />
 
     <TextView
         android:id="@+id/tvTxtVersao"
         style="@style/sobre"
-        android:text="Versão:"/>
+        android:text="@string/vers_o"/>
 
     <TextView
         android:id="@+id/tvNumeroVersao"

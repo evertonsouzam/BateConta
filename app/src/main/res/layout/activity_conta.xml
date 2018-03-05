@@ -28,7 +28,7 @@
         android:layout_gravity="bottom|end"
         android:layout_margin="24dp"
         fab:fab_size="mini"
-        fab:fab_label="Sair"
+        fab:fab_label="@string/sair"
         android:onClick="sair" />
 
     <com.github.clans.fab.FloatingActionButton
@@ -38,7 +38,7 @@
         android:layout_gravity="bottom|end"
         android:layout_margin="24dp"
         fab:fab_size="mini"
-        fab:fab_label="Bater Conta"
+        fab:fab_label="@string/app_name"
         android:onClick="baterConta" />
 
     <com.github.clans.fab.FloatingActionButton
@@ -48,7 +48,7 @@
         android:layout_gravity="bottom|end"
         android:layout_margin="24dp"
         fab:fab_size="mini"
-        fab:fab_label="Novo Produto"
+        fab:fab_label="@string/Novo_produto"
         android:onClick="novoProduto" />
 
     </com.github.clans.fab.FloatingActionMenu>

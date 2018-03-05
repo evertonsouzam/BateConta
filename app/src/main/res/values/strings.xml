@@ -15,7 +15,7 @@
     <string name="Texto_ConfirmarSenha">Confirm Password</string>
     <string name="Texto_Erro_Senhas">Password must be equal</string>
     <string name="confirmar_e_iniciar_nova_conta">Confirm and start new account</string>
-    <string name="confirmar_e_manter_a_conta">Confirm and keep accoun</string>
+    <string name="confirmar_e_manter_a_conta">Confirm and keep account</string>
     <string name="ValorPagar">Total ammount:</string>
     <string name="Texto_Erro_BuscarLogin">Error on login</string>
     <string name="Texto_Erro_PreencherUsuarioSenha">User and password must be informed</string>
@@ -32,7 +32,12 @@
     <string name="Texto_Erro_Somar">Error to add  product</string>
     <string name="Texto_Erro_Subtrair">Error to subtract product</string>
     <string name="Texto_Quantidade_Produto">Quantity</string>
-    <string name="Texto_Valor_Produto">Valeu</string>
+    <string name="Texto_Valor_Produto">Value</string>
     <string name="Texto_Nome_Produto">Name</string>
     <string name="informe_o_nome_de_usuario">Username</string>
+    <string name="manter_conectado">Keep conected</string>
+    <string name="desenvolvido_por">Developed by</string>
+    <string name="everton_mendes" translatable="false">Everton Mendes</string>
+    <string name="vers_o">Version:</string>
+    <string name="Novo_produto">New Product</string>
 </resources>
